@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0469406"
+     inkscape:cx="172.4071"
+     inkscape:cy="322.84543"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6417"
+       transform="translate(-143.29251,-35.380866)"
+       inkscape:export-filename="C:\Users\vinteji1\OneDrive - SPŠELIT Dobruška\Projects\web\jara1\icons\menu.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.48812;stroke-linejoin:round;stroke-opacity:0"
+         id="rect846"
+         width="19.678553"
+         height="19.678551"
+         x="144.84875"
+         y="37.271133" />
+      <path
+         style="fill:none;stroke:#800000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 148.99452,42.20432 h 11.30923"
+         id="path6071" />
+      <path
+         style="fill:none;stroke:#800000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 148.99451,47.069188 h 11.30924"
+         id="path6071-6" />
+      <path
+         style="fill:none;stroke:#800000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 148.99451,51.934058 h 11.30924"
+         id="path6071-3" />
+    </g>
+  </g>
+</svg>
