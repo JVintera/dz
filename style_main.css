@@ -3,13 +3,13 @@
 /* ***************** BAREVNÉ SCHÉMA ***************** */
 /* ************************************************** */
 :root{
-  --main_backgroud: #faebd7; /*AntiqueWhite*/
+  --main_backgroud: black /* #faebd7; /*AntiqueWhite*/
   --gray_box: #708090	; /*SlateGray*/
   --green_box: #556b2f; /*DarkOliveGreen*/
   --transparent_box: #faebd7aa; 
 
   --light_text:AntiqueWhite;
-  --dark_text: yellow; /*#800000; /*Maroon*/
+  --dark_text: #800000; /*Maroon*/
   
   --web_width: 1800px;
 }
