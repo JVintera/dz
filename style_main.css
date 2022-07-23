@@ -11,7 +11,7 @@
   --light_text:AntiqueWhite;
   --dark_text: #800000; /*Maroon*/
   
-  --web_width: 1800px;
+  --web_width: 93.75em; //1800px
 }
 
 
@@ -190,7 +190,7 @@ nav a:hover {
     top: 0px;
     right: -100%;
     width: 100%;
-    height:360px;
+    height:300px;
     background-color: var(--gray_box);
     text-align: center;
     list-style-type: none;
