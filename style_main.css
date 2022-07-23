@@ -3,7 +3,7 @@
 /* ***************** BAREVNÉ SCHÉMA ***************** */
 /* ************************************************** */
 :root{
-  --main_backgroud: black /* #faebd7; /*AntiqueWhite*/
+  --main_backgroud: black; /* #faebd7; /*AntiqueWhite*/
   --gray_box: #708090	; /*SlateGray*/
   --green_box: #556b2f; /*DarkOliveGreen*/
   --transparent_box: #faebd7aa; 
