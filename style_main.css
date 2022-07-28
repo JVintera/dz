@@ -335,7 +335,8 @@ header .text3 {
 }
 
 @media screen and (max-width: 800px) {
-  .text_about {
+  .text_about 
+      /*display: none;     /*Při jednosloupcovém rozlišení zmizí fotka*/
       flex: 100%;
       max-width: 100%;
   }
